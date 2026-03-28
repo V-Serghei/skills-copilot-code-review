@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const closeRegistrationModal = document.querySelector(".close-modal");
 
   // Search and filter elements
+  // Search input and button
   const searchInput = document.getElementById("activity-search");
   const searchButton = document.getElementById("search-button");
   const categoryFilters = document.querySelectorAll(".category-filter");
